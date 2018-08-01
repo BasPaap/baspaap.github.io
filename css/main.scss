@@ -197,6 +197,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	.borderless {
+		border-bottom:0px;
+	}
+
 	.align-left {
 		text-align: left;
 	}
