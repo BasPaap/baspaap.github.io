@@ -213,6 +213,58 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-align: right;
 	}
 
+.more {
+			@include vendor('transition', ('transform 0.75s ease', 'opacity 0.75s ease'));
+			@include vendor('transition-delay', '3.5s');
+			@include vendor('transform', 'translateY(0)');
+			border: none;
+			bottom: 0;
+			color: inherit;
+			font-size: 0.8em;
+			height: 8.5em;
+			left: 50%;
+			letter-spacing: _size(letter-spacing-alt);
+			margin-left: -8.5em;
+			opacity: 1;
+			outline: 0;
+			padding-left: _size(letter-spacing-alt);
+			position: absolute;
+			text-align: center;
+			text-transform: uppercase;
+			width: 16em;
+			z-index: 1;
+
+			&:after {
+				background-image: url('images/arrow.svg');
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: contain;
+				bottom: 4em;
+				content: '';
+				display: block;
+				height: 1.5em;
+				left: 50%;
+				margin: 0 0 0 -0.75em;
+				position: absolute;
+				width: 1.5em;
+			}
+		}
+
+		&:after {
+			@include vendor('pointer-events', 'none');
+			@include vendor('transition', 'opacity #{_duration(fadein)} ease-in-out');
+			@include vendor('transition-delay', '1.25s');
+			content: '';
+			background: _palette(bg);
+			display: block;
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			left: 0;
+			top: 0;
+			opacity: 0;
+		}
+
 /* Section/Article */
 
 	section, article {
@@ -1534,57 +1586,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 
-		.more {
-			@include vendor('transition', ('transform 0.75s ease', 'opacity 0.75s ease'));
-			@include vendor('transition-delay', '3.5s');
-			@include vendor('transform', 'translateY(0)');
-			border: none;
-			bottom: 0;
-			color: inherit;
-			font-size: 0.8em;
-			height: 8.5em;
-			left: 50%;
-			letter-spacing: _size(letter-spacing-alt);
-			margin-left: -8.5em;
-			opacity: 1;
-			outline: 0;
-			padding-left: _size(letter-spacing-alt);
-			position: absolute;
-			text-align: center;
-			text-transform: uppercase;
-			width: 16em;
-			z-index: 1;
-
-			&:after {
-				background-image: url('images/arrow.svg');
-				background-position: center;
-				background-repeat: no-repeat;
-				background-size: contain;
-				bottom: 4em;
-				content: '';
-				display: block;
-				height: 1.5em;
-				left: 50%;
-				margin: 0 0 0 -0.75em;
-				position: absolute;
-				width: 1.5em;
-			}
-		}
-
-		&:after {
-			@include vendor('pointer-events', 'none');
-			@include vendor('transition', 'opacity #{_duration(fadein)} ease-in-out');
-			@include vendor('transition-delay', '1.25s');
-			content: '';
-			background: _palette(bg);
-			display: block;
-			width: 100%;
-			height: 100%;
-			position: absolute;
-			left: 0;
-			top: 0;
-			opacity: 0;
-		}
+		
 
 		@include breakpoint(small) {
 			@include padding(7em, 3em);
