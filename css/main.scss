@@ -213,10 +213,6 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-align: right;
 	}
 
-	.style1 {
-		padding-bottom: 100px;
-	}
-
 /* Section/Article */
 
 	section, article {
@@ -1249,6 +1245,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style1 {
 			@include wrapper(accent1);
+			padding-bottom: 100px;
 		}
 
 		&.style2 {
