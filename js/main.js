@@ -114,5 +114,12 @@
         		this.paused ? this.play() : this.pause();
     		}
 	});
+	
+	// Revert to poster image at the end of the video
+	$('video').on('ended',->
+  		$('video')[0].autoplay=false;
+  		$('video')[0].load();
+	);
+)
 
 })(jQuery);
