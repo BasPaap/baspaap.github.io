@@ -114,6 +114,11 @@
         		this.paused ? this.play() : this.pause();
     		}
 	});	
-)
+
+	$('video').on('ended', function() {
+		$('video')[0].autoplay=false;
+		$('video')[0].load();
+	});
+	
 
 })(jQuery);
