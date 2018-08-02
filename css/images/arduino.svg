@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="46"
-   height="25"
+   width="45.057446"
+   height="21.257191"
    version="1.1"
    id="svg3803"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,15 +26,19 @@
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
      inkscape:cx="37.189828"
-     inkscape:cy="-10.009347"
+     inkscape:cy="3.8352652"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="987"
-     inkscape:window-x="-8"
+     inkscape:window-x="1672"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata3800">
     <rdf:RDF>
@@ -43,14 +47,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Laag 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,0.09024762)">
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00ffcc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.74911189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 10.968956,0.06834851 C 4.9717728,0.06834851 0,4.647693 0,10.532248 c 0,5.884555 4.9717728,10.622477 10.968956,10.622477 3.395119,0 6.131901,-1.120658 8.134184,-2.966344 1.368918,-1.261843 2.444044,-2.751948 3.425573,-4.270592 0.98153,1.518644 2.056675,3.008749 3.425594,4.270592 2.002282,1.845686 4.739064,3.11781 8.134166,2.966344 5.997183,0 10.968973,-4.737922 10.968973,-10.622477 0,-5.884555 -4.97179,-10.62249562 -10.968973,-10.62249562 -3.577268,0 -6.401636,1.38990112 -8.488096,3.32015052 C 24.395595,4.3444808 23.415504,5.61787 22.528713,6.9213977 21.641923,5.61787 20.661852,4.3444808 19.457051,3.2299029 17.370609,1.2996535 14.546241,0.06834851 10.968956,0.06834851 Z m 0,3.74911819 c 2.671251,0 4.377051,0.8751926 5.942072,2.3230508 1.240669,1.1477919 2.329958,2.7073118 3.40837,4.4098445 -1.23065,1.988945 -2.420812,3.807884 -3.757413,5.039958 -1.473445,1.358199 -2.999663,2.107758 -5.494548,1.97645 v -0.0017 0 c -4.0482,0 -7.2198373,-3.095229 -7.2198373,-6.87336 0,-3.7781496 3.1716373,-6.8733776 7.2198373,-6.8733776 z m 23.119517,0 c 4.0482,0 7.219855,3.095228 7.219855,6.8733773 0,3.778132 -3.171655,6.87336 -7.219855,6.87336 v 0 0.0017 c -2.494885,0 -4.021085,-0.618233 -5.494547,-1.97645 -1.336584,-1.232056 -2.526763,-3.051013 -3.757396,-5.039941 1.078412,-1.7025494 2.167702,-3.2620693 3.408369,-4.4098436 1.56502,-1.4478758 3.270822,-2.3230684 5.942073,-2.3230684 z m -1.620342,3.4779424 v 2.032966 h -2.032966 v 2.1057029 h 2.032966 v 2.048219 h 0.624859 1.491107 v -2.048219 h 2.032966 V 9.3283751 H 34.584097 V 7.2954091 Z M 7.9250073,9.1442623 V 11.316235 H 8.6628634 14.60701 V 9.1442623 Z"
