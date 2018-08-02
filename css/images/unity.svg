@@ -9,9 +9,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xml:space="preserve"
-   height="109.24996"
-   viewBox="0 0 105.74969 109.25068"
-   width="105.74969"
+   height="37.182922"
+   viewBox="0 0 35.99162 37.183167"
+   width="35.991615"
    version="1.1"
    id="svg5730"
    sodipodi:docname="unity.svg"
@@ -36,8 +36,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.1933333"
-     inkscape:cx="12.988817"
-     inkscape:cy="54.629821"
+     inkscape:cx="12.989465"
+     inkscape:cy="54.629822"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
          id="use5751"
          width="100%"
          height="100%"
-         transform="translate(0.83800367,0.00485975)" /></clipPath><clipPath
+         transform="translate(0.83735622,72.072371)" /></clipPath><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath6322"><rect
          style="fill:#00ffcc;fill-opacity:0.28140702;stroke-width:4.05949783"
@@ -69,9 +69,9 @@
          transform="scale(1,-1)" /></clipPath></defs><g
      id="g5745"
      inkscape:label="Clip"
-     transform="translate(-0.83800367,-0.00485975)"><g
+     transform="translate(-0.83735622,-72.072371)"><g
        id="g5726"
-       transform="matrix(0.2463375,0,0,-0.2463375,-143.809,758.345)"
+       transform="matrix(0.08384029,0,0,-0.08384029,-48.392858,330.17135)"
        clip-path="url(#clipPath6322)"
        style="fill:#00ffcc;fill-opacity:1"><g
          id="g5724"
