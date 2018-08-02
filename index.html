@@ -79,7 +79,7 @@ layout: landing
 							<div class="content">
 								<h2>Visual storytelling<br />
 								made easy</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								<p>Many libraries, archives and museums have a treasure trove of digitized heritage, and no inviting way to share it with the public. </p>
 								<p>The client was built in WPF 4.5 and the Microsoft Surface 2 Framework, using a variety of social media API's to display, for example, twitter feeds. An easy to use CMS was built on ASP.NET MVC in C#, and used a variety of REST and OAI-PMH API's to obtain content from various sources.
 							</div>
 						</section>
@@ -140,10 +140,10 @@ layout: landing
 						<div class="inner">
 							<header>
 								<h2>Get in touch</h2>
-								<p>Interested? Read my <a href="documents/bas.pdf" target="_blank">résumé</a> or get in touch via <a href="{{ site.social.linkedin-square }}" target="_blank">LinkedIn</a>, <a href="{{ site.social.instagram }}" target="_blank">Instagram</a> or plain old <a href="mailto:baspaap@live.nl">e-mail</a>.</p>
+								<p>Interested? Read my <a href="{require('documents/bas.pdf')}" target="_blank">résumé</a> or get in touch via <a href="{{ site.social.linkedin-square }}" target="_blank">LinkedIn</a>, <a href="{{ site.social.instagram }}" target="_blank">Instagram</a> or plain old <a href="mailto:baspaap@live.nl">e-mail</a>.</p>
 							</header>
 							<ul class="actions vertical">
-								<li><a href="documents/bas.pdf" class="button fit">Read my résumé</a></li>
+								<li><a href={require('documents/bas.pdf')} class="button fit">Read my résumé</a></li>
 								<li><a href="mailto:baspaap@live.nl" class="button special fit">Contact me</a></li>								
 							</ul>
 						</div>
