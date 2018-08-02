@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3803"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Arduino_Logo3.svg">
+  <defs
+     id="defs3797" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3800">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00979c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13339639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 6.24178,-0.09024762 C 2.82914,-0.09024762 0,2.6058324 0,5.9543824 c 0,3.34855 2.82914,6.0446196 6.24178,6.0446196 1.93196,0.0862 3.4892997,-0.6377 4.62868,-1.68797 0.77897,-0.7180396 1.39076,-1.5659696 1.94929,-2.4301396 0.55853,0.86417 1.170331,1.7121 1.949301,2.4301396 1.13938,1.05027 2.69672,1.77416 4.62867,1.68797 3.41264,0 6.24179,-2.6960696 6.24179,-6.0446196 0,-3.34855 -2.82915,-6.04463002 -6.24179,-6.04463002 -2.03561,0 -3.64279,0.79091 -4.83007,1.88930002 -0.68557,0.63424 -1.243281,1.35885 -1.747901,2.10061 -0.50462,-0.74176 -1.06232,-1.46637 -1.7479,-2.10061 C 9.8845797,0.70066238 8.2774,-0.09024762 6.24178,-0.09024762 Z m 0,2.13340002 c 1.52005,0 2.4907197,0.49802 3.3812797,1.32191 0.7059903,0.65314 1.3258403,1.54057 1.9395003,2.50938 -0.70029,1.13179 -1.37754,2.16684 -2.1381203,2.86794 -0.83845,0.77287 -1.7069297,1.1994 -3.1266197,1.12468 l -0.028,-10e-4 h -0.0281 c -2.30359,0 -4.10838,-1.76131 -4.10838,-3.91122 0,-2.14992 1.80479,-3.91123 4.10838,-3.91123 z m 13.155941,0 c 2.30359,0 4.10839,1.76131 4.10839,3.91123 0,2.14991 -1.8048,3.91122 -4.10839,3.91122 h -0.0281 l -0.028,10e-4 c -1.41969,0.0747 -2.28816,-0.3518 -3.12662,-1.12468 -0.76057,-0.70109 -1.43783,-1.73615 -2.13811,-2.86793 0.61366,-0.96882 1.23351,-1.85625 1.9395,-2.50938 0.89056,-0.8239 1.86123,-1.32192 3.38128,-1.32192 z m -0.92204,1.97909 v 1.15684 h -1.15684 v 1.19823 h 1.15684 v 1.16552 h 0.35557 0.8485 v -1.16552 h 1.15684 v -1.19823 h -1.15684 v -1.15684 z M 4.50965,5.1645624 v 1.23594 h 0.41987 3.38246 v -1.23594 z"
+       id="path6"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
