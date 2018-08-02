@@ -1880,8 +1880,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 li.icon.dev::before {
 	content: url("images/bars.svg");
-	background-image: url("images/bars.svg");
-	background-size: 1em;
-	background-repeat: no-repeat;
-	background-position-x: 50%;
+	display: block;
+	color: #0fc;
+	font-size:1.5em;	
 }
