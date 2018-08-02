@@ -571,7 +571,13 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		li {
 			padding-left: 0.5em;
+			
+			.fa-code {
+				color: #f00;
+				background-image: url("images/bars.svg");
+			}
 		}
+		
 
 		&.alt {
 			list-style: none;
