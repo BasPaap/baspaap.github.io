@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="164"
+   height="164"
+   viewBox="0 0 164 164"
+   version="1.1"
+   id="svg6339"
+   sodipodi:docname="visualstudio.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata6343">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview6341"
+     showgrid="false"
+     inkscape:zoom="1.4390244"
+     inkscape:cx="-30.923729"
+     inkscape:cy="82"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Vector" />
+  <title
+     id="title6326">icon-BrandVisualStudioIDE</title>
+  <desc
+     id="desc6328">Created using Figma</desc>
+  <g
+     id="icon-BrandVisualStudioIDE"
+     transform="matrix(2,0,0,2,9374,5826)">
+    <g
+       id="BrandVisualStudioIDE2017RTW_40x">
+      <g
+         id="Vector">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#00ffcc;fill-opacity:1"
+           id="use6330"
+           transform="translate(-4687,-2913)"
+           xlink:href="#path0_fill" />
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs6337">
+    <path
+       id="path0_fill"
+       d="M 61.5005 0L 61.5005 70.4277L 5.34619e-11 61.2929L 61.5005 82L 82 73.472L 82 8.528L 61.5005 0ZM 21.133 39.4502L 39.9677 58.0826L 51.2436 53.2856L 51.2436 16.7547L 39.9677 11.9577L 21.133 30.5921L 9.79153 22.0436L 5.11923 23.6078L 5.11923 46.4345L 9.79153 47.9987L 21.133 39.4502ZM 39.9677 25.254L 39.9677 44.7905L 27.0087 35.0222L 39.9677 25.254ZM 9.79153 28.2305L 16.6554 35.0201L 9.79153 41.8118L 9.79153 28.2305Z" />
+  </defs>
+</svg>
