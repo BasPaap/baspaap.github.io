@@ -116,7 +116,7 @@
 	});
 	
 	// Revert to poster image at the end of the video
-	$('video').bind('ended', function() {
+	$('video').on('ended', function() {
   		$('video')[0].autoplay=false;
   		$('video')[0].load();
 	});
