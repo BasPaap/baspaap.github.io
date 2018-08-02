@@ -1892,7 +1892,14 @@ li.icon.3dprinter::before {
 
 @media screen and (max-width:980px)
 {
-	li.icon.arduino::before,
+	li.icon.arduino::before {
+		left:50%;
+		margin: 0 0 1em 0;
+		position: relative;
+		top:0;
+		transform: translate(-50%, -50%);
+	}
+	
 	li.icon.3dprinter::before {
 		left:50%;
 		margin: 0 0 1em 0;
