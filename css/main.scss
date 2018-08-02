@@ -1888,11 +1888,13 @@ li.icon.dev::before {
 }
 
 @media screen and (max-width:980px)
+{
 	li.icon.dev::before {
-	left:50%;
-	margin: 0 0 1em 0;
-	position: relative;
-	top:0
+		left:50%;
+		margin: 0 0 1em 0;
+		position: relative;
+		top:0
+	}
 }
 
 
