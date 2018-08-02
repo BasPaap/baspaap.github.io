@@ -1881,7 +1881,7 @@ $baseurl: '{{ site.baseurl }}/images';
 li.icon.arduino::before {
 	content: url("images/arduino.svg");
 	display: block;
-	width:45px;	
+	width:30px;	
 }
 
 @media screen and (max-width:980px)
@@ -1890,7 +1890,8 @@ li.icon.arduino::before {
 		left:50%;
 		margin: 0 0 1em 0;
 		position: relative;
-		top:0
+		top:0;
+		transform: translate(-50%, -50%);
 	}
 }
 
