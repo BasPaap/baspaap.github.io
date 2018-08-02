@@ -1880,4 +1880,5 @@ $baseurl: '{{ site.baseurl }}/images';
 
 li.icon.dev::before {
 	content: 'wub';
+	background-image: url("images/bars.svg");
 }
