@@ -1884,9 +1884,16 @@ li.icon.arduino::before {
 	width:45px;	
 }
 
+li.icon.3dprinter::before {
+	content: url("images/3dprinter.svg");
+	display: block;
+	width:45px;	
+}
+
 @media screen and (max-width:980px)
 {
-	li.icon.arduino::before {
+	li.icon.arduino::before,
+	li.icon.3dprinter::before {
 		left:50%;
 		margin: 0 0 1em 0;
 		position: relative;
