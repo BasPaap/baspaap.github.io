@@ -570,12 +570,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		padding-left: 1em;
 
 		li {
-			padding-left: 0.5em;
-			
-			.fa-code {
-				color: #f00;
-				background-image: url("images/bars.svg");
-			}
+			padding-left: 0.5em;			
 		}
 		
 
