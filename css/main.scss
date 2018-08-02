@@ -1890,9 +1890,30 @@ li.icon.threedprinter::before {
 	width:35px;	
 }
 
+li.icon.visualstudio::before {
+	content: url("images/visualstudio.svg");
+	display: block;
+	width:35px;	
+}
+
+li.icon.touch::before {
+	content: url("images/touch.svg");
+	display: block;
+	width:35px;	
+}
+
+li.icon.unity::before {
+	content: url("images/unity.svg");
+	display: block;
+	width:35px;	
+}
+
 @media screen and (max-width:980px)
 {
 	li.icon.arduino::before,
+	li.icon.visualstudio::before,
+	li.icon.unity::before,
+	li.icon.touch::before,
 	li.icon.threedprinter::before {
 		left:50%;
 		margin: 0 0 0 0;
