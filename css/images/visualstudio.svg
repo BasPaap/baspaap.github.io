@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="164"
-   height="164"
-   viewBox="0 0 164 164"
+   width="35.440678"
+   height="35.440678"
+   viewBox="0 0 35.440678 35.440678"
    version="1.1"
    id="svg6339"
    sodipodi:docname="visualstudio.svg"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>icon-BrandVisualStudioIDE</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,18 +42,22 @@
      showgrid="false"
      inkscape:zoom="1.4390244"
      inkscape:cx="-30.923729"
-     inkscape:cy="82"
+     inkscape:cy="82.000077"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Vector" />
+     inkscape:current-layer="Vector"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <title
      id="title6326">icon-BrandVisualStudioIDE</title>
   <desc
      id="desc6328">Created using Figma</desc>
   <g
      id="icon-BrandVisualStudioIDE"
-     transform="matrix(2,0,0,2,9374,5826)">
+     transform="matrix(2,0,0,2,9374,5697.4406)">
     <g
        id="BrandVisualStudioIDE2017RTW_40x">
       <g
@@ -64,7 +69,7 @@
            x="0"
            style="fill:#00ffcc;fill-opacity:1"
            id="use6330"
-           transform="translate(-4687,-2913)"
+           transform="matrix(0.21610169,0,0,0.21610169,-4687,-2848.7203)"
            xlink:href="#path0_fill" />
       </g>
     </g>
@@ -73,6 +78,7 @@
      id="defs6337">
     <path
        id="path0_fill"
-       d="M 61.5005 0L 61.5005 70.4277L 5.34619e-11 61.2929L 61.5005 82L 82 73.472L 82 8.528L 61.5005 0ZM 21.133 39.4502L 39.9677 58.0826L 51.2436 53.2856L 51.2436 16.7547L 39.9677 11.9577L 21.133 30.5921L 9.79153 22.0436L 5.11923 23.6078L 5.11923 46.4345L 9.79153 47.9987L 21.133 39.4502ZM 39.9677 25.254L 39.9677 44.7905L 27.0087 35.0222L 39.9677 25.254ZM 9.79153 28.2305L 16.6554 35.0201L 9.79153 41.8118L 9.79153 28.2305Z" />
+       d="M 61.5005,0 V 70.4277 L 0,61.2929 61.5005,82 82,73.472 V 8.528 Z M 21.133,39.4502 39.9677,58.0826 51.2436,53.2856 V 16.7547 L 39.9677,11.9577 21.133,30.5921 9.79153,22.0436 5.11923,23.6078 v 22.8267 l 4.6723,1.5642 z M 39.9677,25.254 v 19.5365 l -12.959,-9.7683 z m -30.17617,2.9765 6.86387,6.7896 -6.86387,6.7917 z"
+       inkscape:connector-curvature="0" />
   </defs>
 </svg>
