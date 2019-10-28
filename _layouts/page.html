@@ -3,15 +3,20 @@ layout: default
 ---
 <article id="main">
 
-  <header style="background-image:url(images/{{ page.bannerimage }})">
-    <h2>{{ page.title }}</h2>
-    <p>{{page.subtitle}}</p>
-  </header>
+    <header style="background-image:-moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(images/{{ page.bannerimage }});
+                   background-image:-webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(images/{{ page.bannerimage }});
+                   background-image:-ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(images/{{ page.bannerimage }});
+                   background-image:linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(images/{{ page.bannerimage }});">
 
-  <section class="wrapper style5">
-    <div class="inner">
-      {{ content }}
-    </div>
-  </section>
+
+        <h2>{{ page.title }}</h2>
+        <p>{{page.subtitle}}</p>
+    </header>
+
+    <section class="wrapper style5">
+        <div class="inner">
+            {{ content }}
+        </div>
+    </section>
 
 </article>
