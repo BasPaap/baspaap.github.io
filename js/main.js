@@ -112,12 +112,14 @@
         		if (clickY > 0.82*height) return;
 
         		// toggles play / pause
-        		this.paused ? this.play() : this.pause();
+                this.paused ? this.play() : this.pause();
+                this.controls = "controls";
     		}
 	});	
 
 	$('video').on('ended', function() {
-		this.autoplay=false;
+        this.autoplay = false;
+        this.controls = null;
 		this.load();
 	});
 	
